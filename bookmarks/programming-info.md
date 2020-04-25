@@ -43,3 +43,4 @@ title: Bookmarks - Programming - Info
 - [Quine programs](http://www.nyx.net/~gthompso/quine.htm)
 - [How to obfuscate C](https://github.com/ColinIanKing/christmas-obfuscated-C/blob/master/tricks/obfuscation-tricks.txt)
 - [How to write unmaintainable code](http://www.se.rit.edu/~tabeec/RIT_441/Resources_files/How%20To%20Write%20Unmaintainable%20Code.pdf)
+- [CSS for internationalisation](https://www.chenhuijing.com/blog/css-for-i18n/)
