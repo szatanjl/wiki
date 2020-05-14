@@ -32,6 +32,12 @@ title: Bookmarks - Programming - Info
 - [How to benchmark on linux](https://easyperf.net/blog/2019/08/02/Perf-measurement-environment-on-Linux)
 - [Calculating confidence](https://alicia.public.iastate.edu/stat328/review-3.pdf)
 
+### Design
+
+- [Color theory](https://programmingdesignsystems.com/color/a-short-history-of-color-theory/index.html)
+- [About fonts](https://www.typography.com/blog/typographic-illusions)
+- [CSS for internationalisation](https://www.chenhuijing.com/blog/css-for-i18n/)
+
 ### Misc
 
 - [How is git commit sha1 formed](https://gist.github.com/masak/2415865)
@@ -43,4 +49,3 @@ title: Bookmarks - Programming - Info
 - [Quine programs](http://www.nyx.net/~gthompso/quine.htm)
 - [How to obfuscate C](https://github.com/ColinIanKing/christmas-obfuscated-C/blob/master/tricks/obfuscation-tricks.txt)
 - [How to write unmaintainable code](http://www.se.rit.edu/~tabeec/RIT_441/Resources_files/How%20To%20Write%20Unmaintainable%20Code.pdf)
-- [CSS for internationalisation](https://www.chenhuijing.com/blog/css-for-i18n/)
