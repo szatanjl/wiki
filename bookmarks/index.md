@@ -10,7 +10,6 @@ title: Bookmarks
 - [General programming stuff](programming-info.md)
 - [Algorithms](programming-algorithms.md)
 - [Tutorials](programming-tutorials.md)
-- [Blogs](programming-blogs.md)
 
 ## Science
 
